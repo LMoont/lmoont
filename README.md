@@ -20,7 +20,7 @@
 <h3> 👨‍💻 Sobre Mim: <br></h3>
 
 - 🔭 Atualmente estou trabalhando em projetos back-end com a linguagem a C.
-- 🌱 Estudando novas tecnologias de desenvolvimento web, como JavaScript e Node.js
+- 🌱 Estudando novas tecnologias de desenvolvimento web, como JavaScript e PHP.
 -  📚 Graduando em Análise e Desenvolvimento de Sistemas.
 - 👯 Estou aberto a colaborações em projetos interessantes de desenvolvimento de software.
 - ⚡ Curiosidade: Adoro resolver problemas de código e explorar novas tecnologias.
