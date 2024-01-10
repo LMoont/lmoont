@@ -19,10 +19,10 @@
 
 <h3> 👨‍💻 Sobre Mim: <br></h3>
 
-- 🔭 Atualmente estou trabalhando em projetos back-end com a linguagem a C.
-- 🌱 Estudando novas tecnologias de desenvolvimento web, como JavaScript e PHP.
+- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web com PHP.
+- 🌱 Estudando novas tecnologias, como JavaScript e TypeScript.
 -  📚 Graduando em Análise e Desenvolvimento de Sistemas.
-- 👯 Estou aberto a colaborações em projetos interessantes de desenvolvimento de software.
+- 👯 Estou aberto a colaborações em projetos interessantes de desenvolvimento web.
 - ⚡ Curiosidade: Adoro resolver problemas de código e explorar novas tecnologias.
 - 🎮 Apaixonado por games, música, futebol e natureza.
 
@@ -44,6 +44,7 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="PHP Icon"/>
   </div>
 
 
