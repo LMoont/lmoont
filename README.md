@@ -12,7 +12,7 @@
   <a href="http://api.whatsapp.com/send?phone=5511972751294">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:lucasmontino@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-%230077B5.svg?style=flat-square&logo=microsoft-outlook&logoColor=white" width="100"></a>
+    <img src="https://img.shields.io/badge/Outlook-%230077B5.svg?style=flat-square&logo=microsoft-outlook&logoColor=white" width="75"></a>
 </div>
 
 ##
